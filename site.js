@@ -75,7 +75,7 @@ const QUOTES = [
   ["He has branded our company to give it a fresh new look and I have been hearing very good response about the logo from our clients too.","Anurag Adhikari","Co-Founder, Sentry Cyber · Australia","mint"],
   ["I recommend Bisheshwor for any UI/UX or Product design position. During our collaboration at Innovate Tech, I was consistently amazed by his talent and enthusiasm.","Sandeep Shrestha","Founder, Spacechimp · Nepal","butter"]
 ];
-const EMAIL = "bhattabisheshwor@gmail.com";
+const EMAIL = "hallo@bisheshwor.de";
 const SOCIALS = [["Dribbble","https://dribbble.com/Bisheshwor"],["LinkedIn","https://www.linkedin.com/in/bisheshwor-bhatta-4a58bb138/"],["Medium","https://medium.com/@bisheshwor"]];
 
 /* ---------- helpers ---------- */
