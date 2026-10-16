@@ -36,17 +36,17 @@ const CATS = {
   graphic:{label:"Graphic design", anchor:"graphic-design", line:"Mascots, merch and illustration that bring a brand to life."}
 };
 const ART = [
-  ["photo","sky","Eagle of Metal","Split",1.25,"images/art/plane.jpg"],
-  ["photo","pink","Into the flzing box","Split",.8,"images/art/aboard.jpg"],
-  ["photo","mint","Bamberg Altstadt","Bamberg",.75,"images/art/bamberg.jpg"],
-  ["photo","butter","Beauty of Rothenburg","Rothenburg",1,"images/art/rothenburg.jpg"],
-  ["photo","violet","Sunset love","Split",1.3,"images/art/sunset.jpg"],
-  ["photo","peach","Bamberg Rathaus","Bamberg",1.1,"images/art/bamberg_rathaus.jpg"],
-  ["photo","mint","Small boat port","Zadar",.9,"images/art/port.jpg"],
-  ["photo","violet","Roman Gladiator","Split",.85,"images/art/gladiator.jpg"],
-  ["photo","peach","Bavarian House","Rothenburg",1.2,"images/art/bavarian_haus.jpg"],
-  ["photo","butter","Bavarian roofline","Bamberg",.8,"images/art/bamberg_roof.jpg"],
-  ["photo","sky","Coastal cafe","Split",1,"images/art/cafe.jpg"],
+  ["photo","sky","Eagle of Metal","Split",1.25,"images/art/plane.JPG"],
+  ["photo","pink","Into the flzing box","Split",.8,"images/art/aboard.JPG"],
+  ["photo","mint","Bamberg Altstadt","Bamberg",.75,"images/art/bamberg.JPG"],
+  ["photo","butter","Beauty of Rothenburg","Rothenburg",1,"images/art/rothenburg.JPG"],
+  ["photo","violet","Sunset love","Split",1.3,"images/art/sunset.JPG"],
+  ["photo","peach","Bamberg Rathaus","Bamberg",1.1,"images/art/bamberg_rathaus.JPG"],
+  ["photo","mint","Small boat port","Zadar",.9,"images/art/port.JPG"],
+  ["photo","violet","Roman Gladiator","Split",.85,"images/art/gladiator.JPG"],
+  ["photo","peach","Bavarian House","Rothenburg",1.2,"images/art/bavarian_haus.JPG"],
+  ["photo","butter","Bavarian roofline","Bamberg",.8,"images/art/bamberg_roof.JPG"],
+  ["photo","sky","Coastal cafe","Split",1,"images/art/cafe.JPG"],
 ];
 /* Image slider under the hero (Home). One entry per image, in order.
    src: your image, e.g. "images/slider/01.jpg" (empty = coloured project mockup)
