@@ -1,0 +1,13 @@
+<!-- Page-transition doodle pattern. Replace with your own SVG (white strokes work best; the site shows it at 10% opacity). -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M20 40c10-14 20 14 30 0s20 14 30 0"/>
+  <circle cx="170" cy="40" r="14"/>
+  <path d="M120 100l6 12 13 2-9 9 2 13-12-6-12 6 2-13-9-9 13-2z"/>
+  <path d="M30 150v24M18 162h24"/>
+  <rect x="160" y="140" width="34" height="34" rx="8" transform="rotate(12 177 157)"/>
+  <path d="M60 210c20-20 40 20 60 0"/>
+  <circle cx="205" cy="215" r="5"/>
+  <path d="M95 30q10-12 20 0t20 0"/>
+  <path d="M200 90a12 12 0 1 1-12-12"/>
+  <path d="M70 100l14 14M84 100l-14 14"/>
+</svg>

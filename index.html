@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Bisheshwor Bhatta · Product Designer &amp; Framer Developer</title>
+<meta name="description" content="Bisheshwor Bhatta, product designer and Framer developer. UI/UX design, branding, illustration and Framer websites.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#7744C0">
+<!-- Social share preview: put a 1200x630 image at images/og.jpg -->
+<meta property="og:title" content="Bisheshwor Bhatta · Product Designer">
+<meta property="og:description" content="Bisheshwor Bhatta, product designer and Framer developer. UI/UX design, branding, illustration and Framer websites.">
+<meta property="og:image" content="images/og.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="site.css">
+</head>
+<body data-page="home">
+<div id="nav-slot"></div>
+<main id="top">
+<header class="hero wrap">
+    <div class="hero-grid">
+      <div>
+        <span class="status"><span class="dot"></span>Available for freelance &amp; full-time roles</span>
+        <h1>
+          <span class="ls"><span>Design that works</span></span>
+          <span class="ls"><span><span class="hl">beautifully.</span></span></span>
+        </h1>
+        <p class="lead">I design <b>intuitive UI/UX and digital products</b> that turn ideas into real-world impact, plus the brands, mascots and illustrations that give them a voice.</p>
+        <div class="hero-cta">
+          <a href="work.html" class="btn mag">See all work <span class="arr"><span>→</span><span>→</span></span></a>
+          <a href="contact.html" class="btn ghost mag">Start a project</a>
+        </div>
+      </div>
+
+      <div class="stage" id="stage">
+      <img class="float hero-img" data-depth="14" src="images/hero.png" alt="Selected work by Bisheshwor Bhatta" onerror="this.remove()">
+        <div class="float f1" data-depth="18">
+          <div class="mk" style="position:relative;height:100%;--strong:var(--t-violet-s);--tint:var(--t-violet)">
+            <div class="mk-bar"><i></i><i></i><i></i><b></b></div>
+            <div class="mk-body">
+              <div class="mk-h">Learn by<br>doing.</div>
+              <div class="mk-l" style="width:80%"></div>
+              <div class="mk-l" style="width:55%"></div>
+              <div class="mk-btn"></div>
+            </div>
+          </div>
+        </div>
+        <div class="float f2" data-depth="30">
+          <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:10px;height:100%">
+            <div style="border-radius:14px;background:var(--t-mint-s)"></div>
+            <div style="border-radius:50%;background:var(--surface);align-self:center;aspect-ratio:1"></div>
+            <div style="border-radius:14px 50px 14px 14px;background:var(--t-butter-s)"></div>
+            <div style="grid-column:span 2;border-radius:14px;background:var(--surface);padding:12px;display:grid;gap:6px;align-content:center"><div class="mk-l" style="width:70%;background:var(--t-mint-s);opacity:.5"></div><div class="mk-l" style="width:45%"></div></div>
+            <div style="border-radius:50%;background:var(--t-pink-s)"></div>
+          </div>
+        </div>
+        <div class="float f3" data-depth="44">
+          <svg class="sticker" viewBox="0 0 120 120"><defs><path id="c" d="M60,60 m-46,0 a46,46 0 1,1 92,0 a46,46 0 1,1 -92,0"/></defs><text textLength="286" lengthAdjust="spacing"><textPath href="#c" textLength="286" lengthAdjust="spacing">UI · UX · Brand · Illustration · Framer ·</textPath></text></svg>
+          <span class="core">B</span>
+        </div>
+        <div class="float f4" data-depth="12">
+          <span class="sw"><i style="background:var(--accent)"></i><i style="background:var(--t-pink-s)"></i><i style="background:var(--t-butter-s)"></i><i style="background:var(--t-mint-s)"></i></span>
+          Pixel-perfect in Framer
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="slider-band" aria-label="Project highlights">
+    <div class="slider-track" id="slider"></div>
+  </section>
+
+  
+  <section id="work" class="work-dark">
+   <div class="wrap">
+    <div class="sec-head">
+      <div class="rv"><span class="eyebrow">Selected work</span><h2>UI/UX &amp; graphic design</h2></div>
+      <a class="link-arrow rv" href="work.html">All <span id="workCount"></span> projects <span>→</span></a>
+    </div>
+    <div class="work-grid" id="grid"></div>
+    <div class="teaser-foot"><a href="work.html" class="btn mag">Browse more projects <span class="arr"><span>→</span><span>→</span></span></a></div>
+   </div>
+  </section>
+
+  <section id="cases" class="wrap">
+    <div class="sec-head">
+      <div class="rv"><span class="eyebrow">Case studies</span><h2>From research to release</h2></div>
+      <p class="rv">Deeper write-ups on how each product was shaped: who it was for, what we learned, and the decisions behind the final interface.</p>
+    </div>
+    <div class="cases" id="cases-list"></div>
+  </section>
+
+  <section id="services" class="wrap" style="padding-top:0">
+    <div class="sec-head">
+      <div class="rv"><span class="eyebrow">Services</span><h2>How I can help</h2></div>
+      <p class="rv">From a single landing page to a full product and the brand around it.</p>
+    </div>
+    <div class="svc-grid" id="svc"></div>
+  </section>
+
+  <section id="art" class="art-sec">
+    <div class="wrap">
+      <div class="sec-head">
+        <div class="rv"><span class="eyebrow">Off the clock</span><h2>Art &amp; photography</h2></div>
+        <a class="link-arrow rv" href="art.html">Open the gallery <span>→</span></a>
+      </div>
+      <div class="art-strip" id="artStrip"></div>
+    </div>
+  </section>
+
+  <section id="kind-words" class="wrap">
+    <div class="sec-head"><div class="rv"><span class="eyebrow">Kind words</span><h2>What clients say</h2></div></div>
+    <div class="quotes" id="quotes"></div>
+  </section>
+
+  <section id="about" class="wrap" style="padding-top:0">
+    <div class="about-teaser">
+      <div class="rv">
+        <span class="eyebrow">About</span>
+        <p class="about-big" style="margin-top:18px">I'm Bisheshwor, a product designer and Framer developer. I care about interfaces that feel <em>obvious</em> to use and brands that feel <em>alive</em>.</p>
+      </div>
+      <div class="rv" style="--d:.1s"><a class="link-arrow" href="about.html">More about me <span>→</span></a></div>
+    </div>
+  </section>
+</main>
+<div id="foot-slot"></div>
+<script src="site.js"></script>
+</body>
+</html>
