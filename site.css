@@ -856,10 +856,6 @@ img.portrait{display:block;width:100%;object-fit:cover}
 .full-shot .frame>img{width:100%;height:auto;object-fit:initial;display:block}
 .full-shot figcaption{display:none}
 .slide .brand .sw{display:none}
-/* .hero-grid{grid-template-columns:1fr 1fr}
-.stage{max-width:720px}
-@media (max-width:900px){.stage{max-width:460px}} */
-/* hero image covers the whole right side, running to the right edge of the screen */
 .hero-grid{grid-template-columns:1fr 1fr;align-items:stretch}
 .stage{max-width:none;width:auto;justify-self:stretch;aspect-ratio:auto;min-height:clamp(360px,42vw,640px);margin-right:calc(-1 * clamp(16px,4vw,80px))}
 .hero-img{border-radius:28px 0 0 28px}
@@ -867,8 +863,12 @@ img.portrait{display:block;width:100%;object-fit:cover}
   .hero-grid{grid-template-columns:1fr}
   .stage{min-height:0;aspect-ratio:4/3;max-width:none;justify-self:stretch;width:calc(100% + clamp(16px,4vw,80px));margin-left:0}
 }
-/* Hero: image top lines up with the headline, box height follows the image */
 .hero-grid{align-items:start}
 .hero h1{margin-top:0}
 .stage{min-height:0!important;aspect-ratio:2400/1559!important}
 .hero-img{object-fit:cover;object-position:top}
+.hero-grid{align-items:start}
+.hero h1{margin-top:0}
+.stage{min-height:0!important;aspect-ratio:2400/1559!important;margin-right:0!important}
+.hero-img{object-fit:cover;object-position:top;border-radius:28px}
+@media (max-width:900px){.stage{width:100%!important}}
