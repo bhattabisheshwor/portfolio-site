@@ -1,0 +1,44 @@
+# IISIICHAA case study. Lines starting with # are notes and are not shown on the site.
+# Anything in [square brackets] is highlighted on the page until you replace it with the real detail.
+# Full guide: case-studies/_TEMPLATE.txt
+
+Title: IISIICHAA
+Summary: Brand and UI design for a community-driven company.
+Tags: Brand Identity, Voice & Tone, UI Design
+
+Role: Brand designer
+Client: [client name, city]
+Industry: Community
+Year: [year]
+Deliverables: [e.g. logo, colour palette, typography, website]
+Status: draft
+== Context
+[Who the client is, what they do, and why this project happened now.]
+
+== Problem
+[What was broken, missing or confusing, first from the user's side, then the business side.]
+
+== Hypothesis
+I believed that [design decision] would [result] because [insight].
+
+== How I tested it
+[The directions you explored, what you showed to whom (client, team, users), what you learned, and what you changed because of it.]
+
+[image: iisiichaa01 | [Caption: e.g. sketches and early directions]]
+
+== Solution
+[The final idea, how it answers the problem, and the key decisions behind it.]
+
+[image: iisiichaa02 | [Caption]]
+[image: iisiichaa03 | [Caption]]
+
+== Outcome
+[What happened after launch: where it is used, numbers if you have them, feedback.]
+
+> [A short quote from the client or team.]
+> — [Name, role]
+
+[Did this support your hypothesis, or how did you adjust it?]
+
+== Reflection
+[What you learned, and what you would do differently next time.]

@@ -1,0 +1,52 @@
+# Notar baron von der Trenck case study. Lines starting with # are notes and are not shown on the site.
+# Anything in [square brackets] is highlighted on the page until you replace it with the real detail.
+# Full guide: case-studies/_TEMPLATE.txt
+
+Title: Notar baron von der Trenck
+Summary: Brand identity for a notary office.
+Tags: Brand Identity, Logo Design
+
+Role: Brand designer
+Client: Notar baron von der Trenck, Naumburg
+Industry: Notary
+Year: 2026
+Deliverables: Logo, branding, icon set for website, logo animation
+
+== Context
+Baron von der Trenck is a well-regarded notary based in Naumburg. As a notary, it is important to them that everything about their office appears serious, sovereign, and competent, while never looking like bragging. At the time the project began, their digital presence had almost fallen apart: the Google Business profile had disappeared, the website no longer worked, and there were random online listings they did not want. Therefore, they were looking for full service from a single source, starting with a completely new corporate design.
+
+Users: Anyone seeking legal counsel or notarial services, from private clients to businesses.
+
+I worked as the brand designer alongside Saalebrands, a creative marketing agency based in Naumburg, creating the logo system, brand guidelines, an icon set for the website, and a logo animation. Since the logo was the starting point for everything else, including web design and print layouts, it had to be right before anything else could move forward.
+
+== Problem
+The notary was using the state coat of arms and their family coat of arms as a logo. While they liked the burgundy color from their family coat of arms, they did not like the style of the business cards, and nothing tied their office together as a recognizable brand.
+ 
+As the project progressed, it also became clear how much their heritage meant to them. So, they wanted to incorporate their family coat of arms to modern look that should result as a very clean, minimal yet sophisticated logo for Notar Baron von der Trenck.
+
+# Your earlier "How can we" question: to connect my family coat of arms to modern branding?
+
+== Hypothesis
+I believed that the reduced mark derived from the family coat of arms would give the notary a brand that feels both modern and authoritative, because the coat of arms already carries enough history and trust.
+
+[image: notar-trenck01 | Early variations of the logo]
+
+== How I tested it
+Instead of starting with hand sketches, I created four to five rough logo ideas directly on the computer, built around the state coat of arms with "Baron von der Trenck" as the title. Together with the Saalebrands, we proposed what we called a "structured corporate identity" with two logos:
+1. Logo F, based on the family coat of arms, for visual communication.
+2. Logo L, based on the state coat of arms, for official and formal communication.
+
+Logo L came together quickly, as the possibilities were so limited that it mostly came down to the typeface. Logo F, on the other hand, was the real challenge. The family coat of arms could not be replicated directly. I studied reductions of German family coats of arms that reference their heritage without looking like the year 1400s, and I explored many variations of a shield, the letter T, and a classical column. I also presented two typographic directions: a geometric sans serif (Satoshi), which matched the modern reference websites the client liked, and a modern serif (Instrument Serif), which I personally preferred for an office that relies heavily on print and formal documents.
+
+== Solution
+The family coat of arms was very beautiful, with meaningful elements associated with their family. But, it's too cluttered to be a business logo. I experimented a bit and used coat of shield, letter T and roman pillar to associate the legal profession. I simplified the color from the coat of arms and paired the brand mark with a think Serif font to give it a premium look. I also developed brand guidelines and 2D animation of the logo for better brand consistency and visibility.
+
+[gif: notar-trenck02 | Logo animation | #7A1F2B]
+[image: notar-trenck03 | Iconset for website]
+[image: notar-trenck04 | Brandbook]
+
+== Outcome
+The typeface, the colors, and the two-logo structure were approved by the client, and the refined brand mark now forms the foundation for the notary's new website and print materials.
+
+== Reflection
+his project taught me that designing with very limited possibilities is truly an art, as every small detail, whether a spiral, a circle, or the width of a column, carries much more weight. I also realized how valuable it is to learn about the client's background as early as possible; which will eventually save the time and budget for client and for me as well.

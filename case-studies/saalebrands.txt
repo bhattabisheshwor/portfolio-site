@@ -1,0 +1,47 @@
+# Saalebrands case study. Lines starting with # are notes and are not shown on the site.
+# Anything in [square brackets] is highlighted on the page until you replace it with the real detail.
+
+Title: Saalebrands
+Summary: Brand identity and logo design for a marketing and branding agency in Naumburg.
+Tags: Brand Identity, Logo Design
+
+Role: Brand Designer (identity & logo)
+Client: Saalebrands, Naumburg
+Industry: Marketing & branding agency
+Year: 2026
+Deliverables: Logo, colour palette, typography, brand applications
+
+== Context
+Saalebrands is a marketing and branding agency in Naumburg that helps local businesses build their identity and reach their community. As the agency had spent years focusing all of its energy on client work, its own brand had quietly been left behind, and the original logo no longer reflected the quality of what the team was creating for others.
+
+== Problem
+The existing logo was very generic with Letter 'S' as a brand mark with a portion of Adinkara symbol for encouragement attached to the letter, which made it difficult for potential clients to understand who Saalebrands was and why they should trust it with their own brand. For an agency that sells identity, this gap was particularly significant: its own logo had to prove what it could do.
+
+== Hypothesis
+I believed that grounding the identity in the Saale River, a name local businesses already feel connected to, and expressing it as a connected identity would make Saalebrands feel like a rooted and trustworthy regional partner rather than just another agency.
+
+== Exploring the Idea
+With this hypothesis in mind, I explored three directions: a literal river coming out from two hills illustration, an abstract river meanders, and a mark built from the Saale river's real meanders. While the illustrative route felt too decorative and the abstract mark lacked a story, the real meanders' beautiful curve within a square stood out. Since it kept the local reference while remaining simple enough to work at any size. Moreover, I had adjusted the curve of the river inside the square in such a way that the shape resembled two interlocking puzzle pieces, which ultimately became the heart of the concept.
+
+[image: saalebrands | Sketches and rejected directions]
+
+== Solution
+The final mark traces the meanders of the Saale inside a square, forming two pieces that fit together, just as the agency fits together with its clients. This gave the identity both a sense of place and a sense of collaboration, and to portray growth, renewal and trust of the businesses that seek the service of Saalebrands, Saale green color is carefully pared with secondary brand color Saale Lime. Moreover, Papaya Whip and Deep Space are used when light and dark contrast are needed for the brands. Whereas Elben Sun and Indigo Velvet are used as supportive color for the brand.
+
+[image: saalebrands02 | Final logo]
+[image: saalebrands04 | Construction grid]
+[image: saalebrands03 | Signage]
+[image: saalebrands06 | Business Card]
+[image: saalebrands05 | Merch]
+
+
+== Outcome
+The new identity was adopted across the agency's website, print materials and client presentations. We can also see the Saalebrands river flow design across the window of the agency's office at Naumburg.
+
+> I already spent a long time admiring the design, and I'm absolutely thrilled. Everything about it has style and fits perfectly with Saalebrands.
+> — Enrico, Founder of Saalebrands
+
+This supported the hypothesis: the local reference gave the brand an immediate sense of belonging, while the puzzle metaphor clearly communicated the agency's collaborative approach.
+
+== Reflection
+This project made me realise that the strongest brand ideas are often already present in a client's story; my role was to find them and give them form. Going forward, I would measure recognition before and after launch to validate the hypothesis with more than internal feedback.

@@ -1,0 +1,80 @@
+# ============================================================
+#  CASE STUDY TEMPLATE  (copy this file, rename it to <project-id>.txt)
+#  The file name must match the project page: saalebrands.html -> saalebrands.txt
+#  Lines starting with # are notes for you. They never appear on the site.
+# ============================================================
+
+# ---- 0. STATUS ----
+# Status: draft  -> the page shows ONLY the images already uploaded (no text, no [brackets],
+#                   missing images skipped). Filled-in Title, Summary, Tags and snapshot lines still show.
+# Delete the line, or write "Status: ready", when the case study is finished.
+
+Status: draft
+
+# ---- 1. SNAPSHOT (top of the page) ----
+# Title, Summary and Tags fill the big title area.
+# Every other "Name: value" line becomes a box in the snapshot card, in this order.
+# Add or remove lines freely (e.g. Duration: 6 weeks, Team: 2 designers).
+
+Title: Project name
+Summary: One short sentence under the title.
+Tags: Brand Identity, Logo Design
+Link: Visit website | https://example.com
+
+Role: [Your role]
+Client: [Client, city]
+Industry: [Industry]
+Year: [Year]
+Deliverables: [Logo, colour palette, typography …]
+
+# ---- 2. SECTIONS ----
+# Each section starts with a line beginning with ==
+# You can rename the headings (e.g. "Exploring the idea" instead of "How I tested it").
+# A section with "Hypothesis" in its heading gets the big purple panel.
+#
+# Writing:
+#   Leave an empty line between paragraphs.
+#   **bold text**
+#   [link text](https://example.com)
+#   - a bullet point
+#   > A quote from the client.
+#   > — Name, role
+#   [anything in square brackets] is highlighted yellow as "still to fill in"
+#
+# Images (one per line, put them anywhere, move the line to move the image):
+#   [image: saalebrands02 | Caption under the image]
+#     -> loads images/projects/<project-id>/saalebrands02.jpg (.png, .webp, .gif … found automatically)
+#   [images: saalebrands03, saalebrands04 | One caption for both]
+#     -> two images side by side
+#   [gif: notar-trenck02 | Logo animation | #7A1F2B]
+#     -> GIF centred on a coloured panel (use any hex colour)
+#   The caption is optional: [image: saalebrands02]
+
+== Context
+Who the client is, what they do, and why this project happened now.
+
+== Problem
+What was broken, missing or confusing, from the user's side and the business side.
+
+== Hypothesis
+I believed that [design decision] would [result] because [insight].
+
+== How I tested it
+The directions you explored, who you showed them to, what you learned and what you changed.
+
+[image: project01 | Sketches and early directions]
+
+== Solution
+The final idea and how it answers the problem.
+
+[image: project02 | Final logo]
+[images: project03, project04 | Applications]
+
+== Outcome
+What happened after launch, and whether it supported the hypothesis.
+
+> A short quote from the client or team.
+> — Name, role
+
+== Reflection
+What you learned, and what you would do differently next time.

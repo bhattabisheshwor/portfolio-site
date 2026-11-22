@@ -1,0 +1,50 @@
+# UX4UX case study. Lines starting with # are notes and are not shown on the site.
+# Anything in [square brackets] is highlighted on the page until you replace it with the real detail.
+# Full guide: case-studies/_TEMPLATE.txt
+
+Title: UX4UX
+Summary: Globally recognized ed-tech platform.
+Tags: Website Design, UX Research, User-Centered Design, User Study, Illustration
+
+Role: UX Researcher, UI designer
+Client: Medical UX Researcher
+Industry: UX Research
+Year: 2024 - 2025
+Deliverables: UX Research, Usability research, Web design
+Status: draft
+== Context
+The UX4UX project focuses on developing a web tool to assist medical researchers in understanding and conducting usability testing for their studies
+
+Users: Medical researchers conducting UX interviews.
+
+I was involved in the project as a core member conducting interviews, ideation, prototyping and UI design.
+
+== Problem
+Usability is an element that affects the efficiency and use of medical research software, but many researchers in the medical sector are unaware of appropriate UX processes and usability testing best practices in their fields.  Therefore, many non UX experts fail in their efforts to successfully implement usability testing in their research, making usability testing inconsistent or ineffective in their studies. Moreover, many studies may fail due to the lack of usability in their processes.
+
+== Hypothesis
+I believed that [design decision] would [result] because [insight].
+
+== How I tested it
+[The directions you explored, what you showed to whom (client, team, users), what you learned, and what you changed because of it.]
+
+[image: ux4ux01 | [Caption: e.g. sketches and early directions]]
+
+== Solution
+The challenge that the UX4UX project tries to solve is the lack of use of usability testing in the medical research field. To achieve this, the project has created a web-based tool that helps the medical researcher to not only learn but also perform usability testing. Utilizing the User-Centered Design process, the project engaged in user studies and interviews aimed at learning the needs and challenges of the researchers before designing the platform that provides guidance and usability strategies for evaluation. This strategy not only helps the medical field but also improves the quality and success of any study that requires usability testing.
+
+[image: ux4ux02 | [Caption]]
+[image: ux4ux03 | [Caption]]
+[image: ux4ux04 | [Caption]]
+[image: ux4ux05 | [Caption]]
+
+== Outcome
+[What happened after launch: where it is used, numbers if you have them, feedback.]
+
+> [A short quote from the client or team.]
+> — [Name, role]
+
+[Did this support your hypothesis, or how did you adjust it?]
+
+== Reflection
+[What you learned, and what you would do differently next time.]

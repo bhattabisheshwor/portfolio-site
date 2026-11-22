@@ -1,0 +1,47 @@
+# MM Fräsen case study. Lines starting with # are notes and are not shown on the site.
+# Anything in [square brackets] is highlighted on the page until you replace it with the real detail.
+# Full guide: case-studies/_TEMPLATE.txt
+
+Title: MM Fräsen
+Summary: Brand identity for a milling company.
+Tags: Brand Identity, Logo Design
+
+Role: Brand designer
+Client: MM Fräsen
+Industry: Milling
+Year: 2026
+Deliverables: Logo, Brand guidelines, Web design
+Status: draft
+== Context
+MM Fräsen provides Robotic CNC Milling Service for Wood and Plastic. It uses 7-axis precision milling robot to supply one-offs and small batches of products.
+
+== Problem
+MM Fräsen was using a very generic logo using only its name. It didn't have a proper brand mark, let alone a visual identity that truly addressesd the service MM Fräsen has been providing. A designer who was working on the project previously already had worked on new color palette, brand mark and typography but they were not satisfied with the result.
+
+# Your earlier "How can we" question: address our premium products as well as batch-offs.
+
+== Hypothesis
+I believed that [design decision] would [result] because [insight].
+
+== How I tested it
+[The directions you explored, what you showed to whom (client, team, users), what you learned, and what you changed because of it.]
+
+[image: mm-fraesen01 | [Caption: e.g. sketches and early directions]]
+
+== Solution
+The client already liked the color palette other designer worked on. But, they were not satisfied with the brand marks and typography. That is when they contacted me to work on the project.
+
+[image: mm-fraesen02 | [Caption]]
+[image: mm-fraesen03 | [Caption]]
+[image: mm-fraesen04 | [Caption]]
+
+== Outcome
+[What happened after launch: where it is used, numbers if you have them, feedback.]
+
+> [A short quote from the client or team.]
+> — [Name, role]
+
+[Did this support your hypothesis, or how did you adjust it?]
+
+== Reflection
+[What you learned, and what you would do differently next time.]

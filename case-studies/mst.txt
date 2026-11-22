@@ -1,0 +1,46 @@
+# mySecondTeacher case study. Lines starting with # are notes and are not shown on the site.
+# Anything in [square brackets] is highlighted on the page until you replace it with the real detail.
+# Full guide: case-studies/_TEMPLATE.txt
+
+Title: mySecondTeacher
+Summary: Globally recognized ed-tech platform.
+Tags: Web App, Website Design, Responsive Design, TV App Design, Illustration
+
+Role: UI/UX designer
+Client: mySecond Teacher
+Industry: Ed-tech
+Year: 2020
+Deliverables: Web design, Mobile design, Illustration, TV app design
+Status: draft
+== Context
+mySecondTeacher is an ed-tech platform used by students around the world. I designed the web app, the marketing website, a responsive layout and a TV app for learning from the living room.
+
+== Problem
+[What was broken, missing or confusing, first from the user's side, then the business side.]
+
+== Hypothesis
+I believed that [design decision] would [result] because [insight].
+
+== How I tested it
+[The directions you explored, what you showed to whom (client, team, users), what you learned, and what you changed because of it.]
+
+[image: mst01 | [Caption: e.g. sketches and early directions]]
+
+== Solution
+[The final idea, how it answers the problem, and the key decisions behind it.]
+
+[image: mst02 | [Caption]]
+[image: mst03 | [Caption]]
+[image: mst04 | [Caption]]
+[image: mst05 | [Caption]]
+
+== Outcome
+[What happened after launch: where it is used, numbers if you have them, feedback.]
+
+> [A short quote from the client or team.]
+> — [Name, role]
+
+[Did this support your hypothesis, or how did you adjust it?]
+
+== Reflection
+[What you learned, and what you would do differently next time.]

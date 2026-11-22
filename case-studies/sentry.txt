@@ -1,0 +1,44 @@
+# Sentry Cyber case study. Lines starting with # are notes and are not shown on the site.
+# Anything in [square brackets] is highlighted on the page until you replace it with the real detail.
+# Full guide: case-studies/_TEMPLATE.txt
+
+Title: Sentry Cyber
+Summary: A fresh logo and identity for a cyber security company.
+Tags: Logo Design, Brand Identity
+
+Role: Brand designer
+Client: Sentry Cyber
+Industry: Cyber security
+Year: 2024
+Deliverables: Logo, Brand guidelines
+Status: draft
+== Context
+Sentry Cyber is a cyber security company in Australia. I designed a new logo and identity to give it a fresh look that its clients respond to.
+
+== Problem
+[What was broken, missing or confusing, first from the user's side, then the business side.]
+
+== Hypothesis
+I believed that [design decision] would [result] because [insight].
+
+== How I tested it
+[The directions you explored, what you showed to whom (client, team, users), what you learned, and what you changed because of it.]
+
+[image: sentry01 | [Caption: e.g. sketches and early directions]]
+
+== Solution
+[The final idea, how it answers the problem, and the key decisions behind it.]
+
+[image: sentry02 | [Caption]]
+[image: sentry03 | [Caption]]
+
+== Outcome
+[What happened after launch: where it is used, numbers if you have them, feedback.]
+
+> [A short quote from the client or team.]
+> — [Name, role]
+
+[Did this support your hypothesis, or how did you adjust it?]
+
+== Reflection
+[What you learned, and what you would do differently next time.]
