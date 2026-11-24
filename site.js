@@ -46,6 +46,8 @@ const ART = [
   ["photo","violet","Roman Gladiator","Split",.85,"images/art/gladiator.JPG"],
   ["photo","peach","Bavarian House","Rothenburg",1.2,"images/art/bavarian_haus.JPG"],
   ["photo","butter","Bavarian roofline","Bamberg",.8,"images/art/bamberg_roof.JPG"],
+  ["poster","sky","Everest Base Camp","Poster",1,"images/art/Everest.jpg"],
+  ["photo","sky","Peace poster","Poster",1,"images/art/Peace.jpg"],
   ["photo","sky","Coastal cafe","Split",1,"images/art/cafe.JPG"],
 ];
 /* Image slider under the hero (Home). One entry per image, in order.
